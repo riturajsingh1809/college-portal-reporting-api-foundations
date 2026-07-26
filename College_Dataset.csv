@@ -1,0 +1,301 @@
+Student_ID,Name,Department,Year,Gender,Attendance,Marks,Fees,Placement_Status,Company,CGPA,City
+ST0001,Student_1,Electronics,2,Male,76,96,90001,Not Placed,TCS,8.29,Lucknow
+ST0002,Student_2,Computer Science,1,Male,65,60,107895,Placed,,7.37,Delhi
+ST0003,Student_3,Electrical,1,Female,80,74,65113,Placed,Infosys,8.21,Kolkata
+ST0004,Student_4,Mechanical,4,Female,100,85,84066,Placed,Accenture,8.36,Bhopal
+ST0005,Student_5,Electronics,4,Male,100,81,93542,Not Placed,TCS,7.95,Jaipur
+ST0006,Student_6,IT,4,Male,66,73,53627,Placed,Capgemini,8.85,Patna
+ST0007,Student_7,Mechanical,4,Male,84,81,84576,Placed,Cognizant,6.63,Lucknow
+ST0008,Student_8,Mechanical,3,Female,94,61,55429,Not Placed,Wipro,7.95,Lucknow
+ST0009,Student_9,Civil,1,Male,90,63,81070,Not Placed,Accenture,9.23,Lucknow
+ST0010,Student_10,Electrical,1,Male,78,88,114730,Placed,Wipro,7.33,Kolkata
+ST0011,Student_11,Electrical,2,Male,65,48,112728,Not Placed,,9.49,Bhopal
+ST0012,Student_12,Electrical,3,Female,61,66,111145,Not Placed,Infosys,7.5,Bhopal
+ST0013,Student_13,Computer Science,3,Male,91,46,57477,Placed,Cognizant,9.36,Jaipur
+ST0014,Student_14,Computer Science,1,Male,82,57,68916,Placed,Infosys,9.63,Patna
+ST0015,Student_15,Civil,4,Female,73,59,118729,Not Placed,Infosys,8.84,Lucknow
+ST0016,Student_16,Electronics,1,Male,90,84,110731,Placed,Capgemini,5.93,Bhopal
+ST0017,Student_17,Mechanical,3,Male,61,73,109164,Not Placed,Infosys,9.28,Patna
+ST0018,Student_18,Electrical,2,Male,97,64,78118,Placed,Capgemini,8.36,Delhi
+ST0019,Student_19,Electronics,4,Female,81,51,114619,Placed,Capgemini,7.61,Delhi
+ST0020,Student_20,Electronics,3,Female,66,84,110050,Not Placed,Capgemini,6.65,Lucknow
+ST0021,Student_21,IT,1,Female,60,65,99262,Placed,Capgemini,7.8,Delhi
+ST0022,Student_22,Computer Science,2,Female,82,76,61315,Not Placed,Wipro,9.01,Lucknow
+ST0023,Student_23,Electronics,3,Female,60,83,61220,Placed,TCS,7.69,Jaipur
+ST0024,Student_24,IT,4,Female,70,69,96389,Placed,Infosys,8.22,Patna
+ST0025,Student_25,IT,1,Male,89,88,54661,Not Placed,Accenture,6.7,Delhi
+ST0026,Student_26,Civil,2,Female,79,71,112313,Not Placed,,8.14,Kolkata
+ST0027,Student_27,Mechanical,3,Male,72,68,97269,Placed,Capgemini,7.05,Lucknow
+ST0028,Student_28,Electronics,2,Female,81,100,72240,Not Placed,Wipro,8.32,Jaipur
+ST0029,Student_29,Electrical,3,Male,85,68,95090,Placed,Cognizant,7.84,Lucknow
+ST0030,Student_30,Civil,4,Female,80,63,108837,Placed,Capgemini,5.72,Kolkata
+ST0031,Student_31,Electronics,4,Female,92,90,64556,Not Placed,TCS,6.91,Kolkata
+ST0032,Student_32,Mechanical,1,Female,81,83,81400,Not Placed,Accenture,9.58,Kolkata
+ST0033,Student_33,Electrical,4,Female,91,53,90749,Not Placed,Cognizant,8.3,Kolkata
+ST0034,Student_34,Computer Science,4,Female,71,88,54620,Not Placed,Capgemini,5.56,Delhi
+ST0035,Student_35,IT,3,Male,76,75,114827,Placed,Wipro,9.65,Lucknow
+ST0036,Student_36,IT,2,Male,69,60,93227,Placed,Wipro,6.67,Kolkata
+ST0037,Student_37,IT,1,Female,62,60,65765,Not Placed,TCS,8.56,Delhi
+ST0038,Student_38,Mechanical,4,Female,62,46,97126,Placed,,5.95,Bhopal
+ST0039,Student_39,Electronics,4,Male,92,56,74959,Placed,Cognizant,6.69,Bhopal
+ST0040,Student_40,Electronics,4,Male,97,50,116974,Placed,Wipro,6.67,Kolkata
+ST0041,Student_41,Computer Science,4,Female,80,56,52150,Not Placed,Cognizant,8.5,Bhopal
+ST0042,Student_42,IT,2,Female,62,57,58872,Placed,,8.56,Delhi
+ST0043,Student_43,Electrical,2,Female,86,70,91576,Placed,TCS,6.91,Kolkata
+ST0044,Student_44,Civil,2,Male,97,88,55553,Placed,Wipro,9.68,Delhi
+ST0045,Student_45,Electrical,1,Female,84,61,76345,Not Placed,TCS,7.51,Patna
+ST0046,Student_46,Civil,2,Male,96,62,103165,Not Placed,Cognizant,8.84,Patna
+ST0047,Student_47,Mechanical,4,Male,66,95,50195,Not Placed,Wipro,7.46,Patna
+ST0048,Student_48,Computer Science,1,Female,89,62,91014,Not Placed,Infosys,6.01,Patna
+ST0049,Student_49,Electrical,2,Female,62,52,54634,Not Placed,Accenture,9.68,Delhi
+ST0050,Student_50,Computer Science,3,Female,75,93,50468,Placed,Cognizant,5.89,Delhi
+ST0051,Student_51,Electronics,2,Female,100,45,54248,Not Placed,Infosys,6.11,Delhi
+ST0052,Student_52,Electrical,3,Male,91,78,118891,Placed,Wipro,7.73,Lucknow
+ST0053,Student_53,Electronics,1,Male,65,63,63293,Placed,Infosys,7.75,Lucknow
+ST0054,Student_54,Electrical,4,Female,86,45,103211,Not Placed,Accenture,7.68,Lucknow
+ST0055,Student_55,Computer Science,4,Female,73,88,110300,Not Placed,Capgemini,8.75,Patna
+ST0056,Student_56,Computer Science,4,Female,66,97,87457,Not Placed,Accenture,6.76,Jaipur
+ST0057,Student_57,Mechanical,4,Female,93,93,104658,Placed,Capgemini,6.39,Kolkata
+ST0058,Student_58,Civil,4,Male,94,82,50475,Not Placed,Capgemini,6.03,Lucknow
+ST0059,Student_59,Electrical,4,Male,88,99,65702,Placed,Wipro,6.21,Bhopal
+ST0060,Student_60,Electronics,4,Male,77,67,80147,Placed,Wipro,6.31,Delhi
+ST0061,Student_61,Electronics,2,Male,99,47,70994,Not Placed,Accenture,6.75,Kolkata
+ST0062,Student_62,Electrical,3,Female,68,79,53074,Placed,Wipro,8.15,Bhopal
+ST0063,Student_63,Computer Science,3,Female,93,90,116754,Placed,Accenture,6.46,Patna
+ST0064,Student_64,Computer Science,2,Female,71,50,61364,Placed,Wipro,6.94,Bhopal
+ST0065,Student_65,Electronics,4,Female,84,56,88416,Not Placed,Infosys,8.89,Patna
+ST0066,Student_66,Electronics,4,Male,82,77,74309,Placed,Infosys,9.06,Jaipur
+ST0067,Student_67,Electrical,1,Male,67,68,58945,Not Placed,Capgemini,6.01,Delhi
+ST0068,Student_68,Electrical,4,Female,85,59,80300,Placed,Infosys,6.25,Delhi
+ST0069,Student_69,Civil,1,Male,78,64,60041,Not Placed,Infosys,8.91,Delhi
+ST0070,Student_70,Electronics,4,Female,72,46,69604,Placed,TCS,5.84,Bhopal
+ST0071,Student_71,Electrical,3,Female,90,98,94474,Not Placed,Wipro,7.21,Lucknow
+ST0072,Student_72,IT,2,Male,82,86,85386,Not Placed,Wipro,8.29,Bhopal
+ST0073,Student_73,Computer Science,1,Female,66,80,70336,Placed,Wipro,6.42,Lucknow
+ST0074,Student_74,Electronics,1,Female,98,89,110416,Placed,Cognizant,9.17,Kolkata
+ST0075,Student_75,Electrical,1,Male,71,50,101580,Placed,,5.88,Kolkata
+ST0076,Student_76,Electronics,4,Female,62,48,73455,Placed,,9.79,Bhopal
+ST0077,Student_77,Mechanical,3,Female,64,85,105163,Not Placed,,9.19,Jaipur
+ST0078,Student_78,Civil,1,Female,61,86,67860,Not Placed,Capgemini,9.66,Lucknow
+ST0079,Student_79,Electronics,1,Female,62,52,60862,Not Placed,Wipro,9.43,Kolkata
+ST0080,Student_80,Computer Science,1,Male,86,54,96344,Placed,Capgemini,7.21,Kolkata
+ST0081,Student_81,Electrical,1,Male,89,59,67036,Placed,Cognizant,7.06,Delhi
+ST0082,Student_82,Electrical,4,Female,77,47,72965,Not Placed,Capgemini,7.12,Lucknow
+ST0083,Student_83,Electrical,3,Male,63,90,91829,Not Placed,Accenture,8.2,Lucknow
+ST0084,Student_84,Mechanical,4,Female,65,62,54798,Not Placed,Wipro,6.33,Lucknow
+ST0085,Student_85,Electrical,3,Female,69,60,82984,Not Placed,Cognizant,8.35,Jaipur
+ST0086,Student_86,Computer Science,3,Female,61,59,84639,Not Placed,Accenture,9.14,Patna
+ST0087,Student_87,Electronics,1,Female,81,83,110189,Not Placed,Cognizant,8.16,Bhopal
+ST0088,Student_88,IT,3,Female,61,72,67697,Not Placed,Wipro,9.22,Jaipur
+ST0089,Student_89,Electrical,2,Male,85,60,66819,Placed,,9.75,Delhi
+ST0090,Student_90,IT,2,Female,100,70,82056,Not Placed,,6.93,Jaipur
+ST0091,Student_91,Mechanical,4,Male,61,74,80817,Placed,Accenture,5.75,Lucknow
+ST0092,Student_92,Electrical,3,Female,92,63,96185,Not Placed,Infosys,9.2,Bhopal
+ST0093,Student_93,Computer Science,3,Male,64,61,74804,Not Placed,TCS,7.56,Kolkata
+ST0094,Student_94,Mechanical,4,Male,99,99,116640,Placed,Wipro,5.77,Jaipur
+ST0095,Student_95,Computer Science,1,Male,86,84,116432,Placed,Accenture,7.87,Jaipur
+ST0096,Student_96,Mechanical,4,Female,80,97,81615,Placed,,5.56,Jaipur
+ST0097,Student_97,Computer Science,4,Female,83,82,119493,Placed,Wipro,6.98,Lucknow
+ST0098,Student_98,Electrical,4,Male,92,76,84915,Placed,Wipro,5.7,Jaipur
+ST0099,Student_99,Computer Science,3,Male,96,86,67817,Not Placed,Cognizant,5.59,Jaipur
+ST0100,Student_100,Electrical,2,Female,81,77,116914,Not Placed,Infosys,6.73,Lucknow
+ST0101,Student_101,Electronics,2,Male,68,81,99106,Not Placed,TCS,6.12,Jaipur
+ST0102,Student_102,Civil,2,Male,95,89,54366,Placed,,7.29,Jaipur
+ST0103,Student_103,Electronics,3,Male,98,96,69919,Placed,,7.62,Bhopal
+ST0104,Student_104,Computer Science,1,Male,74,92,73354,Not Placed,Accenture,7.9,Bhopal
+ST0105,Student_105,IT,3,Female,68,53,68244,Not Placed,Cognizant,8.21,Jaipur
+ST0106,Student_106,Computer Science,1,Male,95,90,113496,Placed,,9.68,Kolkata
+ST0107,Student_107,Civil,2,Female,60,62,86810,Not Placed,Infosys,7.6,Patna
+ST0108,Student_108,Computer Science,3,Male,91,89,70342,Placed,Cognizant,6.69,Jaipur
+ST0109,Student_109,Mechanical,3,Male,63,72,99083,Not Placed,Accenture,7.11,Bhopal
+ST0110,Student_110,Electrical,1,Male,70,59,99820,Not Placed,TCS,9.09,Bhopal
+ST0111,Student_111,Civil,4,Female,71,69,85771,Not Placed,,6.37,Kolkata
+ST0112,Student_112,Computer Science,4,Male,78,53,74893,Not Placed,TCS,5.52,Delhi
+ST0113,Student_113,Electrical,1,Male,82,89,85859,Placed,Wipro,8.32,Delhi
+ST0114,Student_114,Computer Science,2,Female,69,77,119226,Placed,Wipro,8.04,Bhopal
+ST0115,Student_115,Electrical,2,Female,70,46,87959,Not Placed,Wipro,9.47,Bhopal
+ST0116,Student_116,Electronics,4,Female,67,76,55964,Placed,,9.36,Bhopal
+ST0117,Student_117,Mechanical,1,Male,76,90,118699,Not Placed,Infosys,8.56,Jaipur
+ST0118,Student_118,Electrical,2,Female,92,70,52180,Placed,,8.82,Lucknow
+ST0119,Student_119,Computer Science,3,Male,64,67,58234,Not Placed,Accenture,8.07,Bhopal
+ST0120,Student_120,IT,1,Male,97,60,107821,Not Placed,Capgemini,6.85,Kolkata
+ST0121,Student_121,Electrical,3,Male,72,78,85810,Not Placed,Accenture,6.3,Patna
+ST0122,Student_122,Electronics,1,Female,78,50,59363,Not Placed,,6.04,Patna
+ST0123,Student_123,Civil,4,Female,92,98,65061,Not Placed,TCS,7.48,Patna
+ST0124,Student_124,Electrical,4,Male,87,97,78918,Not Placed,Infosys,9.5,Bhopal
+ST0125,Student_125,Civil,2,Male,73,82,66197,Not Placed,Capgemini,9.48,Delhi
+ST0126,Student_126,Civil,1,Female,69,90,93197,Not Placed,Wipro,8.08,Patna
+ST0127,Student_127,Computer Science,1,Male,75,89,82405,Placed,Wipro,7.72,Lucknow
+ST0128,Student_128,Electronics,3,Male,96,98,53033,Not Placed,Cognizant,9.45,Jaipur
+ST0129,Student_129,IT,3,Male,76,56,94986,Placed,TCS,5.97,Lucknow
+ST0130,Student_130,Civil,4,Female,95,95,107863,Placed,Capgemini,7.01,Delhi
+ST0131,Student_131,Civil,1,Female,91,74,52751,Not Placed,Wipro,7.28,Patna
+ST0132,Student_132,IT,3,Female,99,100,87046,Placed,TCS,7.29,Lucknow
+ST0133,Student_133,Civil,2,Male,72,81,89668,Placed,TCS,7.03,Kolkata
+ST0134,Student_134,Civil,3,Male,97,84,74424,Placed,Accenture,6.72,Bhopal
+ST0135,Student_135,Civil,2,Female,98,83,93625,Placed,,8.38,Kolkata
+ST0136,Student_136,Mechanical,1,Female,77,54,75092,Not Placed,Cognizant,9.66,Kolkata
+ST0137,Student_137,Computer Science,2,Male,80,60,99798,Placed,Accenture,5.86,Bhopal
+ST0138,Student_138,Electrical,2,Female,77,92,70922,Placed,Accenture,5.93,Jaipur
+ST0139,Student_139,Electrical,4,Male,60,92,76617,Placed,Capgemini,6.22,Patna
+ST0140,Student_140,Civil,2,Male,99,51,90639,Not Placed,TCS,6.78,Jaipur
+ST0141,Student_141,Computer Science,1,Male,65,79,116831,Not Placed,Wipro,9.51,Lucknow
+ST0142,Student_142,Electronics,4,Male,80,72,87085,Placed,Capgemini,9.74,Lucknow
+ST0143,Student_143,Electrical,1,Female,98,76,111302,Placed,Infosys,6.83,Patna
+ST0144,Student_144,Civil,1,Male,71,51,91039,Placed,Infosys,8.04,Delhi
+ST0145,Student_145,Computer Science,1,Female,60,72,82627,Placed,Cognizant,9.52,Delhi
+ST0146,Student_146,Mechanical,1,Male,89,60,66138,Not Placed,Capgemini,7.91,Jaipur
+ST0147,Student_147,Computer Science,3,Male,67,75,80723,Not Placed,TCS,6.26,Delhi
+ST0148,Student_148,Electrical,3,Female,86,66,65062,Placed,Capgemini,6.28,Lucknow
+ST0149,Student_149,Electrical,3,Male,74,48,96504,Not Placed,,6.19,Patna
+ST0150,Student_150,Electrical,4,Male,75,53,81941,Not Placed,TCS,8.13,Patna
+ST0151,Student_151,Electronics,1,Male,91,48,60682,Placed,Cognizant,7.06,Lucknow
+ST0152,Student_152,Computer Science,2,Male,100,80,104633,Not Placed,Accenture,7.6,Lucknow
+ST0153,Student_153,Electronics,3,Female,91,63,113132,Placed,TCS,9.72,Jaipur
+ST0154,Student_154,Electrical,4,Male,84,75,64693,Not Placed,Wipro,6.56,Jaipur
+ST0155,Student_155,Civil,1,Male,86,73,113510,Not Placed,TCS,7.0,Kolkata
+ST0156,Student_156,Mechanical,3,Female,79,85,63989,Placed,,7.23,Jaipur
+ST0157,Student_157,Mechanical,4,Female,73,49,58998,Placed,Wipro,6.84,Patna
+ST0158,Student_158,Electronics,4,Male,60,59,88174,Not Placed,Cognizant,5.52,Delhi
+ST0159,Student_159,Civil,2,Male,79,47,66431,Placed,Wipro,7.84,Lucknow
+ST0160,Student_160,Electronics,1,Male,74,71,64563,Not Placed,,8.5,Lucknow
+ST0161,Student_161,IT,3,Male,98,99,59612,Not Placed,Accenture,7.15,Delhi
+ST0162,Student_162,Electronics,2,Male,75,72,52552,Placed,,8.02,Lucknow
+ST0163,Student_163,Computer Science,3,Male,76,89,105581,Not Placed,Capgemini,6.06,Jaipur
+ST0164,Student_164,IT,2,Female,77,49,95298,Not Placed,Infosys,6.8,Delhi
+ST0165,Student_165,IT,3,Female,75,73,110757,Placed,Capgemini,6.95,Delhi
+ST0166,Student_166,Electrical,1,Female,71,73,86828,Not Placed,,6.37,Delhi
+ST0167,Student_167,IT,1,Female,92,73,64390,Not Placed,,6.55,Patna
+ST0168,Student_168,Electronics,4,Female,73,70,113762,Not Placed,Capgemini,7.03,Bhopal
+ST0169,Student_169,Computer Science,4,Male,85,91,96316,Not Placed,Infosys,9.4,Bhopal
+ST0170,Student_170,Computer Science,3,Male,86,67,80035,Placed,TCS,6.4,Jaipur
+ST0171,Student_171,Electrical,3,Female,81,63,97438,Placed,Infosys,7.12,Kolkata
+ST0172,Student_172,IT,3,Male,72,88,113059,Not Placed,Accenture,5.95,Patna
+ST0173,Student_173,Mechanical,3,Female,70,70,94721,Placed,,7.88,Patna
+ST0174,Student_174,IT,4,Male,97,61,75693,Not Placed,Accenture,7.9,Bhopal
+ST0175,Student_175,Civil,1,Male,84,74,75957,Not Placed,,7.31,Delhi
+ST0176,Student_176,Electronics,3,Male,95,80,113974,Placed,Capgemini,6.81,Kolkata
+ST0177,Student_177,Civil,1,Male,83,77,91780,Not Placed,,9.53,Patna
+ST0178,Student_178,Computer Science,4,Male,66,61,54339,Not Placed,Wipro,9.49,Bhopal
+ST0179,Student_179,IT,2,Female,69,82,67691,Not Placed,Infosys,8.33,Patna
+ST0180,Student_180,Electrical,4,Female,72,50,76209,Not Placed,Capgemini,7.05,Jaipur
+ST0181,Student_181,Electronics,2,Male,63,59,87595,Not Placed,,9.25,Jaipur
+ST0182,Student_182,Electrical,2,Male,90,54,119719,Placed,Accenture,8.25,Bhopal
+ST0183,Student_183,Electronics,2,Female,76,93,64738,Not Placed,Wipro,8.04,Delhi
+ST0184,Student_184,Mechanical,4,Male,91,95,86812,Placed,TCS,8.83,Bhopal
+ST0185,Student_185,Computer Science,4,Male,88,78,91852,Not Placed,,9.13,Jaipur
+ST0186,Student_186,IT,2,Female,73,90,92004,Placed,Capgemini,8.28,Kolkata
+ST0187,Student_187,Electronics,2,Male,65,100,112510,Not Placed,Capgemini,7.19,Bhopal
+ST0188,Student_188,Electronics,2,Female,60,48,115767,Not Placed,,7.54,Delhi
+ST0189,Student_189,IT,2,Male,96,54,91570,Not Placed,Cognizant,7.9,Kolkata
+ST0190,Student_190,Electronics,3,Female,79,47,65338,Not Placed,TCS,9.2,Patna
+ST0191,Student_191,IT,1,Male,98,69,94767,Not Placed,,6.14,Jaipur
+ST0192,Student_192,Civil,3,Female,66,51,105949,Not Placed,Accenture,8.63,Kolkata
+ST0193,Student_193,Civil,2,Female,66,85,87702,Placed,Cognizant,6.67,Bhopal
+ST0194,Student_194,Electrical,3,Female,67,60,75595,Not Placed,TCS,9.16,Delhi
+ST0195,Student_195,Electrical,4,Male,60,58,106625,Placed,Infosys,6.67,Delhi
+ST0196,Student_196,Civil,3,Female,78,94,76251,Not Placed,Cognizant,6.29,Patna
+ST0197,Student_197,Electrical,3,Female,86,51,107974,Not Placed,Infosys,5.95,Lucknow
+ST0198,Student_198,Electronics,1,Female,72,96,86111,Not Placed,TCS,6.48,Jaipur
+ST0199,Student_199,Electrical,4,Female,77,58,83980,Placed,Cognizant,8.32,Jaipur
+ST0200,Student_200,Electrical,3,Female,75,96,84153,Not Placed,Wipro,6.61,Kolkata
+ST0201,Student_201,IT,3,Female,68,47,88783,Placed,Wipro,6.95,Jaipur
+ST0202,Student_202,Electrical,1,Male,93,87,78304,Not Placed,Wipro,6.51,Jaipur
+ST0203,Student_203,Computer Science,1,Female,65,84,79674,Placed,Capgemini,5.97,Bhopal
+ST0204,Student_204,IT,1,Male,94,56,97058,Not Placed,Wipro,9.59,Lucknow
+ST0205,Student_205,Civil,1,Female,70,82,112504,Placed,Capgemini,8.26,Jaipur
+ST0206,Student_206,IT,3,Male,60,89,80430,Not Placed,Capgemini,8.3,Lucknow
+ST0207,Student_207,Electronics,1,Male,92,94,114527,Not Placed,Cognizant,6.58,Kolkata
+ST0208,Student_208,Civil,2,Female,75,85,95626,Placed,TCS,7.55,Delhi
+ST0209,Student_209,Computer Science,1,Female,68,68,78785,Not Placed,Cognizant,6.9,Kolkata
+ST0210,Student_210,Computer Science,4,Male,99,75,112255,Placed,Capgemini,7.23,Lucknow
+ST0211,Student_211,Electrical,1,Male,89,45,105766,Placed,,7.98,Jaipur
+ST0212,Student_212,Electronics,2,Female,98,51,67685,Not Placed,Accenture,9.28,Delhi
+ST0213,Student_213,Civil,2,Female,75,98,118940,Placed,Wipro,9.56,Kolkata
+ST0214,Student_214,Computer Science,3,Female,85,84,99716,Placed,Accenture,7.81,Jaipur
+ST0215,Student_215,Mechanical,1,Female,76,61,74643,Placed,Wipro,7.51,Jaipur
+ST0216,Student_216,Electrical,4,Female,95,52,114811,Not Placed,Capgemini,6.77,Lucknow
+ST0217,Student_217,Civil,1,Female,60,94,61756,Not Placed,Capgemini,8.9,Patna
+ST0218,Student_218,Electrical,3,Male,94,94,116366,Placed,Accenture,6.89,Delhi
+ST0219,Student_219,Mechanical,3,Male,85,68,94991,Not Placed,Wipro,7.08,Bhopal
+ST0220,Student_220,Mechanical,1,Male,77,62,78495,Not Placed,TCS,6.63,Kolkata
+ST0221,Student_221,Electrical,4,Female,69,96,84249,Not Placed,TCS,6.76,Bhopal
+ST0222,Student_222,Mechanical,4,Female,79,99,69565,Not Placed,Wipro,9.78,Bhopal
+ST0223,Student_223,Electronics,2,Male,95,49,95980,Not Placed,Wipro,9.21,Lucknow
+ST0224,Student_224,Electronics,2,Male,61,90,59512,Not Placed,TCS,6.03,Lucknow
+ST0225,Student_225,Electrical,2,Female,69,61,52961,Placed,Accenture,6.7,Jaipur
+ST0226,Student_226,IT,2,Female,74,52,53831,Placed,Infosys,5.93,Jaipur
+ST0227,Student_227,Mechanical,3,Male,66,59,102277,Not Placed,Cognizant,6.45,Delhi
+ST0228,Student_228,Civil,1,Male,71,57,87740,Not Placed,Cognizant,7.16,Kolkata
+ST0229,Student_229,Computer Science,3,Male,84,69,110935,Not Placed,Infosys,9.78,Patna
+ST0230,Student_230,Computer Science,1,Male,85,90,55368,Placed,Accenture,7.47,Jaipur
+ST0231,Student_231,Electrical,2,Male,78,57,106332,Placed,Capgemini,5.61,Kolkata
+ST0232,Student_232,IT,4,Male,93,48,117892,Placed,TCS,5.97,Lucknow
+ST0233,Student_233,Electrical,4,Male,61,57,88845,Placed,Cognizant,9.55,Patna
+ST0234,Student_234,Civil,2,Female,82,49,117259,Not Placed,Infosys,5.86,Patna
+ST0235,Student_235,Mechanical,4,Female,68,96,74827,Not Placed,Capgemini,6.89,Delhi
+ST0236,Student_236,Electronics,3,Male,60,74,93776,Not Placed,TCS,8.9,Jaipur
+ST0237,Student_237,Civil,1,Male,76,49,87757,Placed,TCS,6.94,Delhi
+ST0238,Student_238,IT,2,Male,70,78,91140,Not Placed,Capgemini,8.15,Patna
+ST0239,Student_239,Electrical,1,Male,74,45,57388,Not Placed,Infosys,6.37,Delhi
+ST0240,Student_240,Mechanical,2,Male,99,47,117083,Not Placed,Infosys,8.22,Jaipur
+ST0241,Student_241,Electronics,2,Male,82,69,55804,Placed,,6.89,Delhi
+ST0242,Student_242,Mechanical,1,Male,66,71,53940,Placed,Infosys,6.03,Bhopal
+ST0243,Student_243,Electronics,1,Male,63,78,101986,Not Placed,Wipro,8.61,Bhopal
+ST0244,Student_244,Civil,4,Female,90,80,54748,Placed,Capgemini,5.82,Patna
+ST0245,Student_245,Electronics,3,Male,62,92,96910,Not Placed,Infosys,5.58,Delhi
+ST0246,Student_246,Mechanical,4,Female,95,100,80528,Not Placed,,7.06,Kolkata
+ST0247,Student_247,Computer Science,2,Male,85,95,76859,Placed,Accenture,7.16,Kolkata
+ST0248,Student_248,Mechanical,4,Male,79,84,97062,Placed,TCS,9.6,Jaipur
+ST0249,Student_249,Civil,4,Female,68,71,57715,Placed,Wipro,7.7,Kolkata
+ST0250,Student_250,Mechanical,3,Female,91,93,89864,Not Placed,Wipro,7.65,Delhi
+ST0251,Student_251,Electronics,3,Male,87,59,112741,Not Placed,Capgemini,8.72,Jaipur
+ST0252,Student_252,Computer Science,2,Male,79,48,85392,Placed,Infosys,6.47,Delhi
+ST0253,Student_253,Mechanical,3,Male,60,65,93414,Not Placed,Capgemini,7.61,Patna
+ST0254,Student_254,Electrical,2,Female,100,74,55979,Not Placed,Accenture,8.91,Kolkata
+ST0255,Student_255,Electrical,1,Female,86,65,93541,Not Placed,,7.45,Kolkata
+ST0256,Student_256,Electrical,3,Female,90,94,96674,Placed,,6.92,Patna
+ST0257,Student_257,Civil,4,Female,100,50,112216,Placed,TCS,6.0,Lucknow
+ST0258,Student_258,Computer Science,4,Male,70,92,88316,Placed,,6.07,Bhopal
+ST0259,Student_259,Civil,2,Male,75,52,65228,Not Placed,Infosys,5.75,Jaipur
+ST0260,Student_260,Mechanical,3,Male,71,74,55193,Placed,Capgemini,9.07,Delhi
+ST0261,Student_261,IT,3,Female,70,99,68349,Not Placed,Cognizant,6.79,Bhopal
+ST0262,Student_262,Computer Science,2,Female,84,96,83531,Not Placed,Wipro,9.33,Jaipur
+ST0263,Student_263,Electronics,3,Male,75,90,53376,Not Placed,Infosys,6.09,Kolkata
+ST0264,Student_264,IT,2,Male,88,78,104378,Placed,Capgemini,6.15,Lucknow
+ST0265,Student_265,Computer Science,4,Male,66,57,110906,Placed,,6.4,Kolkata
+ST0266,Student_266,Civil,3,Female,95,45,92260,Placed,TCS,9.75,Delhi
+ST0267,Student_267,Electronics,1,Male,96,53,63262,Placed,Infosys,8.95,Delhi
+ST0268,Student_268,IT,1,Female,68,84,108867,Placed,Cognizant,7.5,Jaipur
+ST0269,Student_269,Electrical,4,Female,77,81,64905,Placed,Cognizant,8.28,Bhopal
+ST0270,Student_270,Electronics,3,Male,68,53,95223,Not Placed,,6.62,Bhopal
+ST0271,Student_271,Civil,3,Female,74,76,99575,Not Placed,Accenture,6.29,Lucknow
+ST0272,Student_272,Computer Science,3,Male,76,86,94891,Not Placed,Accenture,8.82,Kolkata
+ST0273,Student_273,Electrical,2,Female,98,71,117729,Placed,Capgemini,9.16,Lucknow
+ST0274,Student_274,Computer Science,1,Female,73,93,84408,Placed,Capgemini,7.38,Lucknow
+ST0275,Student_275,Civil,3,Female,70,67,81550,Not Placed,Capgemini,9.77,Lucknow
+ST0276,Student_276,Mechanical,1,Male,89,62,62421,Placed,TCS,9.55,Delhi
+ST0277,Student_277,IT,3,Female,76,51,73992,Placed,Wipro,5.88,Patna
+ST0278,Student_278,Electrical,4,Male,82,50,53669,Placed,,8.88,Patna
+ST0279,Student_279,Mechanical,1,Female,74,89,51860,Not Placed,Accenture,6.37,Patna
+ST0280,Student_280,Mechanical,1,Female,72,89,53928,Placed,Infosys,6.56,Lucknow
+ST0281,Student_281,Computer Science,2,Female,95,64,77983,Placed,Wipro,6.18,Jaipur
+ST0282,Student_282,Electrical,4,Male,90,50,87034,Placed,Wipro,6.64,Delhi
+ST0283,Student_283,Electronics,3,Male,89,88,75494,Placed,Infosys,8.89,Bhopal
+ST0284,Student_284,Electronics,3,Female,96,100,110464,Placed,Accenture,9.79,Delhi
+ST0285,Student_285,Electronics,4,Male,68,46,105155,Placed,Cognizant,5.89,Patna
+ST0286,Student_286,Electrical,1,Female,90,64,93692,Not Placed,,8.31,Delhi
+ST0287,Student_287,Civil,2,Male,69,74,90350,Placed,Wipro,5.96,Patna
+ST0288,Student_288,Electronics,3,Female,83,84,119446,Not Placed,Accenture,6.4,Delhi
+ST0289,Student_289,Mechanical,2,Male,82,83,114400,Not Placed,TCS,5.89,Jaipur
+ST0290,Student_290,Electrical,1,Male,94,64,58330,Not Placed,Accenture,5.62,Kolkata
+ST0291,Student_291,Mechanical,2,Male,79,55,64913,Not Placed,,7.32,Jaipur
+ST0292,Student_292,Civil,1,Male,85,93,57102,Not Placed,Infosys,8.52,Jaipur
+ST0293,Student_293,Electronics,3,Male,70,62,84807,Placed,Accenture,6.39,Lucknow
+ST0294,Student_294,IT,1,Female,83,59,96132,Not Placed,Accenture,7.54,Bhopal
+ST0295,Student_295,Electronics,4,Female,60,99,91997,Placed,,7.01,Patna
+ST0296,Student_296,IT,2,Female,68,61,72877,Placed,Infosys,5.84,Lucknow
+ST0297,Student_297,Civil,1,Female,81,74,67958,Placed,TCS,7.73,Lucknow
+ST0298,Student_298,Electrical,3,Female,97,85,94647,Placed,Infosys,8.0,Lucknow
+ST0299,Student_299,Electrical,2,Male,86,96,66097,Not Placed,Capgemini,8.31,Bhopal
+ST0300,Student_300,Electronics,1,Male,69,54,96325,Not Placed,Accenture,9.42,Bhopal
